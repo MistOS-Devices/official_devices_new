@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="device_xiaomi_surya" />
+  <project name="device_xiaomi_lisa" />
+  <project name="device_nothing_Pong" />
+  <project name="device_xiaomi_raphael" />
+  <project name="device_google_akita" />
+  <project name="device_google_husky" />
+  <project name="device_google_shiba" />
+  <project name="device_google_caimito" />
+  <project name="device_xiaomi_haydn" />
+  <project name="device_xiaomi_begonia" />
+  <project name="device_xiaomi_cupid" />
+  <project name="device_realme_porsche" />
+  <project name="device_oneplus_guacamoleb" />
+  <project name="device_oneplus_mondrian" />
+  <project name="device_motorola_devonf" />
+  <project name="device_xiaomi_marble" />
+  <project name="device_xiaomi_redwood" />
+  <project name="device_motorola_fogos" />
+  <project name="device_realme_RMX2061" />
+  <project name="device_oneplus_aston" />
+  <project name="device_xiaomi_onyx" />
+  <project name="device_xiaomi_blossom" />
+  <project name="device_motorola_devonf" />
+</manifest>
+
