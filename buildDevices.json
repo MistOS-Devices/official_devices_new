@@ -24,6 +24,20 @@
       "picobuild": false,
       "minibuild": true,
       "vanillaBuild": false
+    }،{
+    "OEM": "Poco",
+      "deviceName": "F3",
+      "codename": "alioth",
+      "maintainer": "EGDev1",
+      "telegram": "https://t.me/EGDev1",
+      "donate": "instalpay",
+      "enabled": true,
+      "repo": "MistOS-Devices/device_xiaomi_lisa",
+      "build_type": "userdebug",
+      "gappsbuild": true,
+      "picobuild": true,
+      "minibuild": true,
+      "vanillaBuild": true
     }
   ]
 }
